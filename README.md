@@ -20,3 +20,9 @@ To build the project, you can use the provided makefile. Open a terminal and nav
 - Build both server and client:
   ```bash
   make
+- Run the server:
+  make run_server
+- Run the client:
+  make run_client
+- Clean the project (remove executables):
+  make clean
