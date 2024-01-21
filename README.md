@@ -21,8 +21,11 @@ To build the project, you can use the provided makefile. Open a terminal and nav
   ```bash
   make
 - Run the server:
+   ```bash
   make run_server
 - Run the client:
+   ```bash
   make run_client
 - Clean the project (remove executables):
+   ```bash
   make clean
